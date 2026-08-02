@@ -45,7 +45,12 @@
 **Tools:** Keil µVision • Proteus • Ubuntu • VMware
 
 ---
+## 🎨 Creative Edge
 
+Professional Graphic Designer with 4+ years of experience, bringing strong visual communication skills to technical documentation, project presentation, and engineering workflows.
+
+**Design Tools:** Photoshop • Illustrator • CorelDRAW • Premiere Pro • DaVinci Resolve
+---
 ## 🌱 Currently Learning
 
 - Embedded Linux
