@@ -9,7 +9,7 @@
 </h3>
 
 <h5>
-Embedded Systems Engineer | Firmware Developer | Graphic Designer | Video Editor | Digital Marketing Enthusiast
+Embedded Systems Engineer  |  Firmware Developer  |  Graphic Designer  |  Video Editor  |  Digital Marketing Enthusiast
 </h5>
 
 <p>
