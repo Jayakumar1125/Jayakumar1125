@@ -44,7 +44,7 @@ Embedded Systems Engineer | Firmware Developer | Graphic Designer | Video Editor
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayakumar1125&theme=tokyo-night&hide_border=true" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayakumar1125&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
