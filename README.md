@@ -12,11 +12,11 @@
 Embedded Systems Engineer | Firmware Developer | Graphic Designer | Video Editor | Digital Marketing Enthusiast
 </h5>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Embedded+C+Developer;ARM7+%7C+LPC2129;Firmware+Development;Embedded+Linux+Learner;Hardware+Software+Integration"/>
 <p>
 <a href="https://www.linkedin.com/in/jayakumar-murugesh-96a09837b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
+  
 <a href="mailto:jayakumarmurugesh1125@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
