@@ -1,5 +1,5 @@
 <div align="center">
-# Hi, I'm Jayakumar Murugesh
+Hi, I'm Jayakumar Murugesh
   
 ### Embedded Systems Engineer • Firmware Developer
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Embedded+C+Developer;ARM7+%7C+LPC2129;Firmware+Development;Embedded+Linux+Learner;Hardware+Software+Integration"/>
