@@ -13,9 +13,6 @@
 <a href="mailto:jayakumarmurugesh1125@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://drive.google.com/file/d/1SuSmLo2cxPKBRzu7K_SIhyJnRaSMYWI2/view"><img src="https://img.shields.io/badge/Portfolio-34A853?style=flat-square&logo=googledrive&logoColor=white"/></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=Jayakumar1125&style=flat-square"/>
-
 </div>
 
 ---
