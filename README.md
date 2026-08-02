@@ -7,9 +7,10 @@
 <h3>
   Building Embedded Systems. Designing Digital Experiences. Creating Impact
 </h3>
-<h2>
+
+<h5>
 Embedded Systems Engineer | Firmware Developer | Graphic Designer | Video Editor | Digital Marketing Enthusiast
-</h2>
+</h5>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Embedded+C+Developer;ARM7+%7C+LPC2129;Firmware+Development;Embedded+Linux+Learner;Hardware+Software+Integration"/>
 <p>
@@ -24,8 +25,11 @@ Embedded Systems Engineer | Firmware Developer | Graphic Designer | Video Editor
 <img src="https://img.shields.io/badge/Portfolio-34A853?style=flat-square&logo=googledrive&logoColor=white"/>
 </a>
 </p>
+
 </div>
+
 ---
+
 ## About Me
 
 - B.E. Electronics & Communication Engineering Graduate
