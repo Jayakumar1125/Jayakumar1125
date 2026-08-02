@@ -1,148 +1,209 @@
-<h1 align="center">Jayakumar Murugesh</h1>
-<h3 align="center">Embedded Systems Engineer | ECE Graduate | Turning Circuits into Code</h3>
+<h1 align="center">Hi 👋, I'm Jayakumar Murugesh</h1>
+
+<h3 align="center">
+Embedded Systems Engineer • Electronics & Communication Engineer • C Programmer
+</h3>
+
+<p align="center">
+Building reliable embedded software with C, ARM, and Embedded Linux.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jayakumar-murugesh-96a09837b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:jayakumarmurugesh1125@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-View-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+
+  <a href="https://drive.google.com/file/d/1SuSmLo2cxPKBRzu7K_SIhyJnRaSMYWI2/view">
+    <img src="https://img.shields.io/badge/Portfolio-2EA44F?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Embedded%20Systems-1f6feb?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-Tiruppur%2C%20Tamil%20Nadu-lightgrey?style=flat-square"/>
+---
+
+# 👨‍💻 About Me
+
+I'm an **Electronics and Communication Engineering graduate** passionate about developing reliable embedded systems and firmware.
+
+My interests include:
+
+- Embedded Systems Development
+- Embedded C Programming
+- ARM7 Microcontrollers
+- Embedded Linux
+- Linux Device Drivers
+- Firmware Development
+- Open Source
+
+Before transitioning into Embedded Systems, I worked professionally as a **Graphic Designer**, which helps me create clean documentation, structured repositories, and well-presented engineering projects.
+
+I enjoy building practical projects that combine hardware and software to solve real-world problems.
+
+---
+
+# 🎯 Career Objective
+
+Seeking an **Embedded Systems Engineer** role where I can contribute to firmware development, low-level programming, hardware-software integration, and continuously improve my skills in Embedded Linux and Device Drivers.
+
+---
+
+# 🛠 Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Embedded%20C-1F6FEB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
 </p>
 
 ---
 
-### About Me
+# ⚙ Embedded Technologies
 
-I'm an Electrical, Electronics and Communication Engineering graduate (Velalar College of Engineering and Technology, 2021–2025) building toward a career in **embedded systems engineering**. My focus is on writing efficient, low-level C, understanding microcontroller architecture, and interfacing hardware with software to build reliable embedded products.
+<p>
 
-Before this, I spent several years as a professional graphic designer and visual communicator — a background I now use to produce cleaner documentation, clearer schematics, and better-presented engineering work than most.
+<img src="https://img.shields.io/badge/ARM7-Embedded-blue?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/LPC2129-Microcontroller-blue?style=for-the-badge"/>
 
-### Career Objective
+<img src="https://img.shields.io/badge/UART-Communication-success?style=for-the-badge"/>
 
-Seeking an entry-level **Embedded Systems Engineer** role where I can apply strong fundamentals in C, microcontroller programming, and hardware-software integration, while continuing to build depth in real-time systems and firmware development.
+<img src="https://img.shields.io/badge/I2C-Protocol-success?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/SPI-Protocol-success?style=for-the-badge"/>
 
-### Tech Stack
+<img src="https://img.shields.io/badge/GPIO-Programming-orange?style=for-the-badge"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded%20C-1f6feb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+<img src="https://img.shields.io/badge/ADC-Embedded-orange?style=for-the-badge"/>
 
-> Note: keep only the badges for tools/platforms you've actually used or are actively learning. Remove or add as your stack firms up.
+<img src="https://img.shields.io/badge/Timers-Embedded-orange?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/Interrupts-Embedded-orange?style=for-the-badge"/>
 
-### Embedded Systems Skills
-
-- **Languages:** C, Embedded C
-- **Microcontrollers:** _[Arduino / AVR / STM32 / 8051 — list what applies]_
-- **Protocols:** UART, I2C, SPI _(add as you gain hands-on experience)_
-- **Concepts:** Digital & analog I/O, interrupts, timers, basic RTOS concepts
-- **Tools:** Arduino IDE, STM32CubeIDE / Keil / MPLAB _(as applicable)_, Git & GitHub
-- **Debugging & Testing:** Multimeter, logic analyzer, serial debugging _(add as applicable)_
-
----
-
-### Graphic Design & Visual Communication (Complementary Skill)
-
-- Adobe Photoshop, Illustrator, CorelDRAW
-- Brand identity, technical diagrams, and project documentation design
-- Used to produce clean schematics, polished READMEs, and professional project presentations — a practical advantage in how my engineering work is communicated, not a separate career track
-
----
-
-### Currently Learning
-
-- _[e.g., ARM Cortex-M architecture]_
-- _[e.g., RTOS fundamentals — FreeRTOS]_
-- _[e.g., PCB design basics]_
-
----
-
-### Featured Projects
-
-> Placeholders — to be replaced once your Vector/embedded projects are uploaded and reviewed.
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🔹 Project Name 1</h4>
-      <p>One-line description of what it does and which microcontroller/protocol it uses.</p>
-      <p><em>Tech: C, [MCU], [Protocol]</em></p>
-    </td>
-    <td width="50%">
-      <h4>🔹 Project Name 2</h4>
-      <p>One-line description of what it does and which microcontroller/protocol it uses.</p>
-      <p><em>Tech: C, [MCU], [Protocol]</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🔹 Project Name 3</h4>
-      <p>One-line description of what it does and which microcontroller/protocol it uses.</p>
-      <p><em>Tech: C, [MCU], [Protocol]</em></p>
-    </td>
-    <td width="50%">
-      <h4>🔹 Project Name 4</h4>
-      <p>One-line description of what it does and which microcontroller/protocol it uses.</p>
-      <p><em>Tech: C, [MCU], [Protocol]</em></p>
-    </td>
-  </tr>
-</table>
-
----
-
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayakumar1125&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakumar1125&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayakumar1125&theme=default" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### Contribution Graph
+# 💻 Tools
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayakumar1125&theme=minimal" alt="Contribution Graph"/>
+<p>
+
+<img src="https://img.shields.io/badge/Keil-µVision-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Proteus-Simulation-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+
 </p>
 
 ---
 
-### Contact
+# 🎨 Creative Skills
+
+- Adobe Photoshop
+- Adobe Illustrator
+- CorelDRAW
+- Premiere Pro
+- DaVinci Resolve
+
+> My design experience helps me create professional project documentation, diagrams, presentations, and clean GitHub repositories.
+
+---
+
+# 📚 Currently Learning
+
+- Embedded Linux
+- Linux Device Drivers
+- ARM Architecture
+- Data Structures in C
+- RTOS Fundamentals
+- Git & GitHub Best Practices
+
+---
+
+# 🚀 Upcoming Projects
+
+These repositories will be added soon.
+
+- Healthcare Monitoring System
+- LPC2129 Peripheral Drivers
+- UART Driver
+- SPI Driver
+- I2C Driver
+- GPIO Driver
+- ADC Driver
+- Embedded Linux Notes
+- Student Management System
+- Data Structures in C
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jayakumar-murugesh-96a09837b/">LinkedIn</a> •
-  <a href="mailto:jayakumarmurugesh1125@gmail.com">Email</a> •
-  <a href="#">Portfolio</a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jayakumar1125&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakumar1125&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-<p align="center"><em>Open to Embedded Systems Engineer opportunities — Tiruppur / Coimbatore / remote considered.</em></p>
+# 🔥 GitHub Streak
 
 <p align="center">
-  <sub>Engineering the hardware-software boundary, one project at a time.</sub>
+
+<img src="https://streak-stats.demolab.com?user=Jayakumar1125&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/jayakumar-murugesh-96a09837b/">
+LinkedIn
+</a>
+
+•
+
+<a href="mailto:jayakumarmurugesh1125@gmail.com">
+Email
+</a>
+
+•
+
+<a href="https://drive.google.com/file/d/1SuSmLo2cxPKBRzu7K_SIhyJnRaSMYWI2/view">
+Portfolio
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>
+"Engineering reliable embedded solutions through continuous learning and practical development."
+</i>
+
 </p>
