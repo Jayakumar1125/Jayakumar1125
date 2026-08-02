@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=header&text=Embedded%20Systems%20Engineer&fontSize=28&fontColor=ffffff"/>
@@ -10,6 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Embedded+C+Developer;ARM7+%7C+LPC2129;Firmware+Development;Embedded+Linux+Learner;Hardware+Software+Integration"/>
 
 <p>
+
 <a href="https://www.linkedin.com/in/jayakumar-murugesh-96a09837b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
@@ -21,11 +21,13 @@
 <a href="https://drive.google.com/file/d/1SuSmLo2cxPKBRzu7K_SIhyJnRaSMYWI2/view">
 <img src="https://img.shields.io/badge/Portfolio-34A853?style=flat-square&logo=google-drive&logoColor=white"/>
 </a>
+
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Jayakumar1125&style=flat-square"/>
 
 </div>
+
 
 ---
 
@@ -35,11 +37,12 @@
 
 💻 Passionate about Embedded Systems, Firmware Development and Low-Level Programming.
 
-⚙️ Experienced with ARM7 based microcontrollers, peripheral interfacing and embedded C development.
+⚙️ Experienced with ARM7 based microcontrollers, peripheral interfacing and Embedded C development.
 
 🔧 Interested in developing reliable firmware, device drivers and hardware-software solutions.
 
 🐧 Currently exploring Embedded Linux and Linux Device Drivers.
+
 
 ---
 
@@ -51,6 +54,7 @@
 
 </div>
 
+
 ---
 
 # 🛠 Technical Skills
@@ -61,10 +65,10 @@
 
 </div>
 
+
 ## Embedded Programming
 
 ```
-
 Embedded C
 ARM7 Architecture
 LPC2129 Microcontroller
@@ -78,27 +82,24 @@ PWM
 LCD Interfacing
 Interrupt Handling
 Peripheral Drivers
-
 ```
+
 
 ## Tools & Development Environment
 
 ```
-
 Keil µVision
 Proteus Simulation
 Ubuntu Linux
 VMware
 Git & GitHub
 VS Code
-
 ```
+
 
 ---
 
 # 🔧 What I Build
-
-<div align="center">
 
 | Firmware | Hardware | System Software |
 |----------|----------|----------------|
@@ -106,21 +107,19 @@ VS Code
 | Peripheral Drivers | Sensor Interfacing | Linux Device Drivers |
 | Communication Protocols | Hardware Debugging | System Integration |
 
-</div>
 
 ---
 
 # 📂 Featured Projects
 
+
 ## 🔹 Embedded Health Monitoring System
 
-**Description:**
 A microcontroller-based health monitoring system for measuring vital parameters using sensors and displaying real-time values.
 
-**Technologies**
+### Technologies
 
 ```
-
 LPC2129
 Embedded C
 MAX30102
@@ -129,20 +128,18 @@ I2C
 ADC
 LCD
 UART
-
 ```
+
 
 ---
 
 ## 🔹 War Field Spying Robot
 
-**Description:**
 A surveillance robot with wireless camera support and multiple sensor-based monitoring capabilities.
 
-**Technologies**
+### Technologies
 
 ```
-
 Arduino UNO
 ESP32-CAM
 RF Communication
@@ -151,27 +148,25 @@ MQ2 Sensor
 Metal Detection
 Blynk IoT
 Motor Driver
-
 ```
+
 
 ---
 
 ## 🔹 Anti Sleep Alarm Detector For Drivers
 
-**Description:**
 A safety system designed to detect driver fatigue and alcohol presence.
 
-**Technologies**
+### Technologies
 
 ```
-
 Arduino Nano
 Eye Blink Sensor
 MQ-3 Alcohol Sensor
 Embedded C
 Buzzer Alert System
-
 ```
+
 
 ---
 
@@ -183,6 +178,7 @@ Buzzer Alert System
 
 </div>
 
+
 Along with embedded engineering, I have a background in **Graphic Design and Visual Communication**.
 
 This helps me create:
@@ -193,18 +189,18 @@ This helps me create:
 - 🎥 Technical demonstrations
 - 🖥️ Clean GitHub repositories
 
+
 ## Design Tools
 
 ```
-
 Adobe Photoshop
 Adobe Illustrator
 CorelDRAW
 Premiere Pro
 DaVinci Resolve
 Figma
-
 ```
+
 
 ---
 
@@ -216,6 +212,7 @@ Figma
 - Advanced C Programming
 - ARM Architecture
 - Firmware Optimization
+
 
 ---
 
@@ -233,31 +230,37 @@ Figma
 
 </div>
 
+
 ---
 
 <div align="center">
 
-## 🤝 Let's Connect
+
+# 🤝 Let's Connect
+
 
 <a href="https://www.linkedin.com/in/jayakumar-murugesh-96a09837b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+
 <a href="mailto:jayakumarmurugesh1125@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 
 <a href="https://drive.google.com/file/d/1SuSmLo2cxPKBRzu7K_SIhyJnRaSMYWI2/view">
 <img src="https://img.shields.io/badge/Portfolio-34A853?style=for-the-badge&logo=google-drive&logoColor=white"/>
 </a>
 
+
 <br><br>
+
 
 ### 💬 "Building reliable embedded systems, one line of code at a time."
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=100&section=footer"/>
 
-</div>
-```
 
-This is the complete single `README.md` file. You can directly replace your GitHub profile README with this.
+</div>
