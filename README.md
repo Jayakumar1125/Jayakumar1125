@@ -1,11 +1,7 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=header&text=Embedded%20Systems%20Engineer&fontSize=28&fontColor=ffffff"/>
-
 # Hi, I'm Jayakumar Murugesh
-
+  
 ### Embedded Systems Engineer • Firmware Developer
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Embedded+C+Developer;ARM7+%7C+LPC2129;Firmware+Development;Embedded+Linux+Learner;Hardware+Software+Integration"/>
 
 <p>
@@ -41,38 +37,21 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,html,css,vscode"/>
 
 </div>
 
 **Embedded Programming**
 ```
 
-Embedded C
-ARM7 Architecture
-LPC2129 Microcontroller
-GPIO Programming
-UART Communication
-SPI Protocol
-I2C Protocol
-ADC Interfacing
-Timers
-PWM
-LCD Interfacing
-Interrupt Handling
-Peripheral Drivers
+Embedded C | ARM7 Architecture | LPC2129 Microcontroller | GPIO Programming | UART Communication | SPI Protocol | I2C Protocol | ADC Interfacing | Timers | PWM | LCD Interfacing | Interrupt Handling | Peripheral Drivers
 
 ```
 
 **Tools & Development Environment**
 ```
 
-Keil µVision
-Proteus Simulation
-Ubuntu Linux
-VMware
-Git & GitHub
-VS Code
+Keil µVision | Proteus Simulation | Ubuntu Linux | VMware | Git & GitHub | VS Code
 
 ```
 
@@ -89,11 +68,6 @@ VS Code
 ---
 
 ## Featured Projects
-
-**Embedded Health Monitoring System**
-Microcontroller-based system for measuring vital parameters using sensors and displaying real-time values.
-`LPC2129` `Embedded C` `MAX30102` `LM35` `I2C` `ADC` `LCD` `UART`
-
 **War Field Spying Robot**
 Surveillance robot with wireless camera support and multiple sensor-based monitoring capabilities.
 `Arduino UNO` `ESP32-CAM` `RF Communication` `PIR Sensor` `MQ2 Sensor` `Metal Detection` `Blynk IoT` `Motor Driver`
@@ -108,7 +82,7 @@ Safety system designed to detect driver fatigue and alcohol presence.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ps,ai,figma"/>
+<img src="https://skillicons.dev/icons?i=ps,ai,figma,pr,xd"/>
 
 </div>
 
@@ -123,12 +97,7 @@ Alongside embedded engineering, I have a background in Graphic Design and Visual
 **Design Tools**
 ```
 
-Adobe Photoshop
-Adobe Illustrator
-CorelDRAW
-Premiere Pro
-DaVinci Resolve
-Figma
+Adobe Photoshop | Adobe Illustrator | CorelDRAW | Premiere Pro | DaVinci Resolve | Figma | Adobe XD
 
 ```
 
