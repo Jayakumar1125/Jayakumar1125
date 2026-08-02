@@ -1,14 +1,29 @@
 <div align="center">
-Hi, I'm Jayakumar Murugesh
-  
-### Embedded Systems Engineer • Firmware Developer
+
+<h1>
+  Jayakumar Murugesh
+</h1>
+
+<h3>
+  Embedded Systems Engineer • Firmware Developer
+</h3>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Embedded+C+Developer;ARM7+%7C+LPC2129;Firmware+Development;Embedded+Linux+Learner;Hardware+Software+Integration"/>
 
 <p>
-<a href="https://www.linkedin.com/in/jayakumar-murugesh-96a09837b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jayakumarmurugesh1125@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1SuSmLo2cxPKBRzu7K_SIhyJnRaSMYWI2/view"><img src="https://img.shields.io/badge/Portfolio-34A853?style=flat-square&logo=googledrive&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jayakumar-murugesh-96a09837b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jayakumarmurugesh1125@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1SuSmLo2cxPKBRzu7K_SIhyJnRaSMYWI2/view">
+<img src="https://img.shields.io/badge/Portfolio-34A853?style=flat-square&logo=googledrive&logoColor=white"/>
+</a>
 </p>
+
 </div>
 
 ---
@@ -27,7 +42,7 @@ Hi, I'm Jayakumar Murugesh
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayakumar1125&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayakumar1125&theme=tokyo-night&hide_border=true" height="180"/>
 
 </div>
 
