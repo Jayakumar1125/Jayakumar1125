@@ -96,4 +96,3 @@ Repositories below showcase embedded projects in progress — this profile is th
 <sub>Jayakumar Murugesh · Embedded Systems Engineer</sub>
 
 </div>
-
