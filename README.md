@@ -24,17 +24,6 @@ Embedded Systems Engineer  |  Firmware Developer  |  Graphic Designer  |  Video 
 - Currently exploring Embedded Linux and Linux Device Drivers
 
 ---
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayakumar1125&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 ## Technical Skills
 
 <div align="center">
@@ -111,7 +100,7 @@ Adobe Photoshop | Adobe Illustrator | CorelDRAW | Figma | Adobe XD | Premiere Pr
 <a href="mailto:jayakumarmurugesh1125@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://drive.google.com/file/d/1SuSmLo2cxPKBRzu7K_SIhyJnRaSMYWI2/view"><img src="https://img.shields.io/badge/Portfolio-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 
-<br><br>
+<br>
 
 ### "Building reliable embedded systems, one line of code at a time."
 
