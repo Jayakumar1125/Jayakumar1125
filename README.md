@@ -11,21 +11,6 @@
 <h5>
 Embedded Systems Engineer  |  Firmware Developer  |  Graphic Designer  |  Video Editor  |  Digital Marketing Enthusiast
 </h5>
-
-<p>
-<a href="https://www.linkedin.com/in/jayakumar-murugesh-96a09837b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-  
-<a href="mailto:jayakumarmurugesh1125@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://drive.google.com/file/d/1SuSmLo2cxPKBRzu7K_SIhyJnRaSMYWI2/view">
-<img src="https://img.shields.io/badge/Portfolio-34A853?style=flat-square&logo=googledrive&logoColor=white"/>
-</a>
-</p>
-
 </div>
 
 ---
@@ -101,7 +86,7 @@ My background in graphic design complements my engineering work, enabling me to 
 
 **Tools**
 ```
-`Adobe Photoshop` • `Adobe Illustrator` • `CorelDRAW` • `Figma` • `Adobe XD` • `Premiere Pro` • `DaVinci Resolve` • `Canva`
+Adobe Photoshop | Adobe Illustrator | CorelDRAW | Figma | Adobe XD | Premiere Pro | DaVinci Resolve | Canva
 
 ```
 
