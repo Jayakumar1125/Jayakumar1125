@@ -71,28 +71,6 @@ Embedded C | ARM7 Architecture | LPC2129 Microcontroller | GPIO Programming | UA
 Keil µVision | Proteus Simulation | Ubuntu Linux | VMware | Git & GitHub | VS Code
 
 ```
-
----
-
-## What I Build
-
-| Firmware | Hardware | System Software |
-|---|---|---|
-| Embedded C Applications | ARM Microcontrollers | Embedded Linux |
-| Peripheral Drivers | Sensor Interfacing | Linux Device Drivers |
-| Communication Protocols | Hardware Debugging | System Integration |
-
----
-
-## Featured Projects
-**War Field Spying Robot**
-Surveillance robot with wireless camera support and multiple sensor-based monitoring capabilities.
-`Arduino UNO` `ESP32-CAM` `RF Communication` `PIR Sensor` `MQ2 Sensor` `Metal Detection` `Blynk IoT` `Motor Driver`
-
-**Anti Sleep Alarm Detector for Drivers**
-Safety system designed to detect driver fatigue and alcohol presence.
-`Arduino Nano` `Eye Blink Sensor` `MQ-3 Alcohol Sensor` `Embedded C` `Buzzer Alert System`
-
 ---
 
 ## Engineering + Design Advantage
@@ -103,18 +81,27 @@ Safety system designed to detect driver fatigue and alcohol presence.
 
 </div>
 
-Alongside embedded engineering, I have a background in Graphic Design and Visual Communication. This helps me produce:
+My background in graphic design complements my engineering work, enabling me to create not only functional embedded systems but also professional visuals, documentation, and user-focused presentations.
 
-- Professional technical documentation
-- Hardware diagrams
-- Project presentations
-- Technical demonstrations
-- Clean GitHub repositories
+### Design Expertise
 
-**Design Tools**
+- 🎨 Branding & Logo Design
+- 📱 Social Media Design
+- 🖥️ UI/UX Design
+- 🌐 Website Mockups
+- 📄 Print Design (Flyers, Brochures, Banners)
+- 📦 Product Packaging
+- 📊 Presentation & Pitch Deck Design
+- 📑 Technical Documentation
+- 🔌 Block Diagrams & System Flowcharts
+- 🎬 Video Editing & Motion Graphics
+- 📸 YouTube Thumbnails
+- 💼 Portfolio & Resume Design
+- 🚀 GitHub Repository Branding
+
+**Tools**
 ```
-
-Adobe Photoshop | Adobe Illustrator | CorelDRAW | Premiere Pro | DaVinci Resolve | Figma | Adobe XD
+`Adobe Photoshop` • `Adobe Illustrator` • `CorelDRAW` • `Figma` • `Adobe XD` • `Premiere Pro` • `DaVinci Resolve` • `Canva`
 
 ```
 
@@ -128,21 +115,6 @@ Adobe Photoshop | Adobe Illustrator | CorelDRAW | Premiere Pro | DaVinci Resolve
 - Advanced C Programming
 - ARM Architecture
 - Firmware Optimization
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jayakumar1125&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakumar1125&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Jayakumar1125&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
